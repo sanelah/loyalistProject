@@ -13,6 +13,9 @@ public class Project1 {
         System.out.println("Sanelah Parveen Khan----500192151");
         System.out.println("Kuldeep Kaur gill-------500192054");
         System.out.println("Krunal vilas Teli-------500195601 Edit by krunal");
+        int a = 1;
+        int b= 2;
+        System.out.println (a + b);
         
     }
 }
